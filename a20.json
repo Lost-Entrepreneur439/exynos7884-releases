@@ -1,9 +1,9 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
+			"maintainer": "Lost-Entrepreneur439",
+			"oem": "Samsung",
+			"device": "Galaxy A20",
 			"filename": "crDroidAndroid-14.0-20240502-a20-v10.4.zip",
 			"download": "https://sourceforge.net/projects/crdroid/files/a20/10.x/crDroidAndroid-14.0-20240502-a20-v10.4.zip/download",
 			"timestamp": 1714690148,
@@ -11,18 +11,18 @@
 			"sha256": "09eadb6d421a62545d822c9545966507697067c132fa39296a25891908ff7d7e",
 			"size": 1046049661,
 			"version": "10.4",
-			"buildtype": "",
+			"buildtype": "Monthly",
 			"forum": "",
 			"gapps": "",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "",
+			"recovery": "https://twrp.me/samsung/samsunggalaxya20.html",
 			"paypal": "",
 			"telegram": "",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
+			"dt": "https://github.com/eurekadevelopment/android_device_samsung_exynos7885/tree/android-14/a20",
+			"common-dt": "https://github.com/eurekadevelopment/android_device_samsung_exynos7885/tree/android-14/universal7885-common",
+			"kernel": "https://github.com/eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S/tree/R15_rom"
 		}
 	]
 }
