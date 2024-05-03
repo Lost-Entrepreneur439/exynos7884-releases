@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-14.0-20240502-a20-v10.4.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/a20/10.x/crDroidAndroid-14.0-20240502-a20-v10.4.zip/download",
+			"timestamp": 1714690148,
+			"md5": "2db77aa8bae989a4eab6135a224836a3",
+			"sha256": "09eadb6d421a62545d822c9545966507697067c132fa39296a25891908ff7d7e",
+			"size": 1046049661,
+			"version": "10.4",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
